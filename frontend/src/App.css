@@ -1,0 +1,80 @@
+.myBG {
+  height: 50vh;
+  width: auto;
+  color: black;
+  background: #2596be;
+  background-size: cover;
+}
+
+.footer{
+  text-align: center;
+}
+
+.container{
+  color: black;
+  height: auto;
+}
+
+ /* START DASHBOARD */
+.dashboard {
+  height: 400px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.title {
+  font-size: 3rem;
+  font-weight: bold;
+  line-height: 1;
+  letter-spacing: 3px;
+}
+
+.success {
+  font-size: 3rem;
+  font-weight: 800;
+  line-height: 1;
+}
+
+ /* END DASHBOARD */
+
+.cinemaBG{
+    background-color: whitesmoke;
+    background-size: cover;
+}
+
+.NowPlaying{
+  font-size: 3rem;
+  font-weight: 500;
+}
+
+.UpComing{
+  font-size: 3rem;
+  font-weight: 500;
+}
+
+.genres{
+  margin-bottom: 10px;
+}
+
+.movieImage {
+  height: auto;
+  background-color: shadow;
+  margin: 10px;
+  padding: 5px;
+}
+
+.images{
+  height: 400px;
+}
+
+/* NAVIGATION */
+.Navbar{
+  color: black;
+}
+
+.icon{
+  width: 50px;
+  height: auto;
+  padding-right: 20px;
+}
